@@ -75,6 +75,5 @@ Attribution — You must give appropriate credit, provide a link to the license,
 
 NonCommercial — You may not use the material for commercial purposes.
 
-https://copilot.microsoft.com/chats/c6LwSxjvbnko5fb6yqoQ5#:~:text=%F0%9F%94%97,View%20full%20license
-                           
+https://creativecommons.org/licenses/by-nc/4.0/
 
