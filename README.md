@@ -47,9 +47,11 @@ bash:
 python3 Ghost_Spotter.py <hash> -w /path/to/wordlist.txt --hash_type sha256
 
 Actual example on how to bash it in a OS terminal below. I cracked a password that I made with a SHA generator to demonstrate:
+
 $ python3 Ghost_Spotter.py 3a38358d2d44714bc66023ccbe203acf41fda6af7320c8af06556c7f7888f6cb8d9a3c934fb47a93625ebb0cb03fa4466a437ae880975dc13106c48566ea14aa --hash_type sha512 --min_length 4 --max_length 6 -c 1234567890
 
 Results:
+
 └─$ python3 Ghost_Spotter.py 3a38358d2d44714bc66023ccbe203acf41fda6af7320c8af06556c7f7888f6cb8d9a3c934fb47a93625ebb0cb03fa4466a437ae880975dc13106c48566ea14aa --hash_type sha512 --min_length 4 --max_length 6 -c 1234567890
 [*] Cracking hash 3a38358d2d44714bc66023ccbe203acf41fda6af7320c8af06556c7f7888f6cb8d9a3c934fb47a93625ebb0cb03fa4466a437ae880975dc13106c48566ea14aa using sha512 with generated passwords of lengths from 4 to 6. Total combinations: 1110000.
 Generating and cracking hash:   0%|▎                                                                                                                  | 3367/1110000 [00:00<00:35, 31492.31it/s]
