@@ -74,5 +74,7 @@ Under the following terms:
 Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
 
 NonCommercial — You may not use the material for commercial purposes.
+
+https://copilot.microsoft.com/chats/c6LwSxjvbnko5fb6yqoQ5#:~:text=%F0%9F%94%97,View%20full%20license
                            
 
