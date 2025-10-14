@@ -86,3 +86,5 @@ if __name__ == "__main__":
         print(f'[+] Password found: {cracked_password}')
     else:
         print('[-] Password not found.')
+
+# please use ethically
