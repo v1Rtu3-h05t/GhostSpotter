@@ -87,4 +87,4 @@ if __name__ == "__main__":
     else:
         print('[-] Password not found.')
 
-# please use ethically
+# please use ethically.
