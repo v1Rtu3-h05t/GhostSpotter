@@ -27,7 +27,7 @@
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/Ghost_Spotter.git
+git clone https://github.com/v1Rtu3-h05t/Ghost_Spotter.git
 cd Ghost_Spotter
 ```
 
